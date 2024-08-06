@@ -6,16 +6,9 @@
 }
 
 .row {
-	display: flex;
+/* 	display: flex;
 	flex-flow: row;
-	/* justify-content: space-between; */
 	align-items: center;
-	justify-content: center;
-}
-
-.heading {
-	font-weight: bold;
-	display: inline;
-	text-align: center;
-	width: 100%;
+	justify-content: center; */
+	column-count: 2;
 }
