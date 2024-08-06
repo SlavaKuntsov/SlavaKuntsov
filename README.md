@@ -12,14 +12,17 @@
 </h2>
 <br/>
 <div align="center">
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SlavaKuntsov&theme=dracula&days=60)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlavaKuntsov&theme=dracula&layout=compact">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SlavaKuntsov&show_icons=true&theme=dracula&hide=contribs">
+	
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SlavaKuntsov&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SlavaKuntsov&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SlavaKuntsov&theme=dracula)
 
 </div>  
-  
 </body>  
 </html>
+
+<!-- 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SlavaKuntsov&theme=dracula&days=60)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlavaKuntsov&theme=dracula&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=SlavaKuntsov&show_icons=true&theme=dracula&hide=contribs">
+-->
