@@ -16,7 +16,8 @@
 	
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SlavaKuntsov&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SlavaKuntsov&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SlavaKuntsov&theme=dracula)
+<!--     ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SlavaKuntsov&theme=dracula)   -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SlavaKuntsov&theme=dracula)
 
 </div>  
 </body>  
