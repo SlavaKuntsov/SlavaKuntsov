@@ -14,7 +14,7 @@
 <br/>
 <div align="center">
 	
-<!--    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SlavaKuntsov&theme=dracula)   -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SlavaKuntsov&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SlavaKuntsov&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SlavaKuntsov&theme=dracula)
 <!--     ![Codewars](https://github.r2v.ch/codewars?user=slava_kunz&hide_clan=true&theme=purple_dark)   -->
